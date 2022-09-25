@@ -4,7 +4,7 @@ import 'package:photo_gallery/constants/app_styles.dart';
 import 'package:photo_gallery/presentation/pages/cart/cart.dart';
 import 'package:photo_gallery/presentation/pages/custom_order/custom_order_page.dart';
 import 'package:photo_gallery/presentation/pages/home/home_page.dart';
-import 'package:photo_gallery/presentation/pages/profile/profile.dart';
+import 'package:photo_gallery/presentation/pages/profile/profile_page.dart';
 
 import '../../reusable_components/bottom_nav_bar.dart';
 
