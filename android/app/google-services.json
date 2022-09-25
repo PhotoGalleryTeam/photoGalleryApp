@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898940737671",
+    "project_id": "photogallery-caee8",
+    "storage_bucket": "photogallery-caee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898940737671:android:e596ef79a7fe42aa530022",
+        "android_client_info": {
+          "package_name": "com.example.photo_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898940737671-jnqhn50gk2ur4hmttpsu42d26kl3u13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXKNAJCW41Na8nc7TulXCkN-_ho3kZyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898940737671-jnqhn50gk2ur4hmttpsu42d26kl3u13o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
