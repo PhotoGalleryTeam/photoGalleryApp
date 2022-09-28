@@ -9,12 +9,11 @@ class AppStrings {
   static const String password = 'Password';
   static const String confirmPassword = 'Confirm Password';
 
-  static const String login = "Log In";
+  static const String login = "Login";
   static const String register = "Register";
 
   static const String haveNoAccount = 'Have No Account? ';
-  static const String signInWith = "Or Sign In With";
-  static const String signUpWith = "Or Sign Up With";
+  static const String continueWithGoogle = "Continue With Google";
 
   /* Home */
   static const String searchTitle = 'Search for drawings';

@@ -29,3 +29,15 @@ TextStyle getBoldTextStyle({
   return _getTextStyle(fontSize,color,fontFamily,fontWeight);
 }
 
+ButtonStyle getRegularButtonStyle({required Color bgColor,required double radius}){
+  return ButtonStyle(
+    backgroundColor: MaterialStateProperty.all<Color>(bgColor),
+    shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+        RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(radius),
+            side: BorderSide.none
+        )
+    ),
+    overlayColor:MaterialStateProperty.all<Color>(AppColors.white.withOpacity(0.05)),
+  );
+}
