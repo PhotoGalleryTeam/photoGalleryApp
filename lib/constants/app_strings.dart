@@ -13,6 +13,7 @@ class AppStrings {
   static const String register = "Register";
 
   static const String haveNoAccount = 'Have No Account? ';
+  static const String createYourAccount = 'Create Your Account';
   static const String continueWithGoogle = "Continue With Google";
 
   /* Home */

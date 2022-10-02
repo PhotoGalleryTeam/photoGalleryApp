@@ -43,7 +43,7 @@ class AuthTextFormField extends StatelessWidget {
           isDense: true,
           contentPadding: EdgeInsets.symmetric(
             vertical: size.height*0.021,
-            horizontal: size.width*0.02
+            horizontal: size.width*0.025
           ),
 
           border: OutlineInputBorder(
